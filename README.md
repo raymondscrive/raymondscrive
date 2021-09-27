@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raymondscrive
 - 👀 I’m interested in Scrive stuff (www.scrive.com)
-- 🌱 I’m currently learning API stuff....
+- 🌱 I’m currently learning API stuff.
 - 💞️ I’m looking to collaborate on stuff. 
 - 📫 How to reach me: raymond.kristiansen@scrive.com 
 
